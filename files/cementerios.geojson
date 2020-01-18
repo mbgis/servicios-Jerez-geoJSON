@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3334, "nombre": "Cementerio Municipal", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -5.923785100866664, 36.645408075338999 ] ] } },
+{ "type": "Feature", "properties": { "id": 3477, "nombre": "Cementerio", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.094910833332236, 36.68720195798975 ] ] } }
+]
+}

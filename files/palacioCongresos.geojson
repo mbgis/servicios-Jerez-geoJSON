@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 6, "nombre": "Institución Ferial de Cádiz (IFECA)", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.122933274580247, 36.695045201026929 ] ] } },
+{ "type": "Feature", "properties": { "id": 7, "nombre": "Centro Municipal de Congresos de Jerez de la Frontera", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.131954119260047, 36.697318740293575 ] ] } }
+]
+}

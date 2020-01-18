@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 58, "nombre": "Correos", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -5.934137177360103, 36.649135816707371 ] ] } },
+{ "type": "Feature", "properties": { "id": 57, "nombre": "Correos y Telégrafos", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.13569650089104, 36.683075721141222 ] ] } }
+]
+}

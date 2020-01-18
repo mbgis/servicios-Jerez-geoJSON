@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 124, "nombre": "Parque de Jerez de la Frontera \/ Central de Zona", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.127772222104349, 36.689213888614994 ] ] } }
+]
+}

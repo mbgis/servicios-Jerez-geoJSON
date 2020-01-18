@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 336, "nombre": "Jerez de la Frontera-Cuatro Caminos", "direccion": "Calle Cuatro Caminos 4", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.144946974723402, 36.677529155612611 ] ] } },
+{ "type": "Feature", "properties": { "id": 217, "nombre": "La Barca de la Florida", "direccion": "Calle Cortes 5", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -5.93254061970274, 36.649287366134267 ] ] } },
+{ "type": "Feature", "properties": { "id": 202, "nombre": "Jerez de la Frontera-Capuchino", "direccion": "Plaza Parque de Capuchinos 5", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.130746228686268, 36.692783537418343 ] ] } },
+{ "type": "Feature", "properties": { "id": 201, "nombre": "Jerez de la Frontera-Madre Dios", "direccion": "Calle Diego Fernandez Herrera 12", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.130267179387632, 36.680084793377965 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 159, "nombre": "Ciencias sociales y de la Comunicación", "univers": "Universidad de Cádiz", "direccion": "Avenida de la Universidad, s\/n. 11406 Jerez de la Frontera, Cádiz", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.118423046033696, 36.685971176512062 ] ] } },
+{ "type": "Feature", "properties": { "id": 158, "nombre": "Facultad de Ciencias Económicas y Empresariales", "univers": "Universidad de Cádiz", "direccion": "Avenida de la Universidad, s\/n. 11406 Jerez de la Frontera, Cádiz", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.118710437475174, 36.685945583683491 ] ] } },
+{ "type": "Feature", "properties": { "id": 48, "nombre": "Facultad de Derecho", "univers": "Universidad de Cádiz", "direccion": "Avenida de la Universidad, 4. 11406 Jerez de la Frontera, Cádiz", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.118529951239174, 36.685970703655414 ] ] } }
+]
+}

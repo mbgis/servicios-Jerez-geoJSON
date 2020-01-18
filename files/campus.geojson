@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 18, "nombre": "Campus de la Asunción", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -6.117024594663555, 36.686193224132623 ], [ -6.116194082396359, 36.682976439190206 ], [ -6.11912596488078, 36.682170353245745 ], [ -6.120221788137435, 36.685814281569698 ], [ -6.119324569505968, 36.686020119887218 ], [ -6.118365445802453, 36.686027878759887 ], [ -6.117024594663555, 36.686193224132623 ] ] ] } }
+]
+}
