@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 19, "nombre": "Centro Fijo de Formación para el Empleo Jerez de la Frontera", "tipo": "Centro Fijo de Formación para el Empleo", "direccion": "Calle Hermano Adrián, 1A", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 218462.53475246471, 4065349.310964372 ] ] } }
+{ "type": "Feature", "properties": { "id": 19, "nombre": "Centro Fijo de Formación para el Empleo Jerez de la Frontera", "tipo": "Centro Fijo de Formación para el Empleo", "direccion": "Calle Hermano Adrián, 1A", "cod_mun": "11020", "municipio": "Jerez de la Frontera", "provincia": "Cádiz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -6.151074628732592, 36.692134853276578 ] ] } }
 ]
 }
